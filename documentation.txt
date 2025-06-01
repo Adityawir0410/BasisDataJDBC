@@ -1,0 +1,5 @@
+Compile file lib :
+javac -cp "lib/*" -d bin src/*.java
+
+run file :
+java -cp "bin;lib/*" MainFrame
