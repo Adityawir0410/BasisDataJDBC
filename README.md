@@ -7,7 +7,7 @@ Proyek ini merupakan implementasi **sistem pelaporan barang sederhana** sebagai 
 ## 👤 Identitas Mahasiswa
 
 - **Nama**: Anak Agung Ngurah Aditya Wirayudha  
-- **NIM**: (isi sesuai NIM Anda)  
+- **NIM**: (235150207111067)  
 - **Mata Kuliah**: Basis Data  
 - **Topik**: Pelaporan menggunakan iText PDF
 
