@@ -24,6 +24,16 @@ Proyek ini merupakan implementasi **sistem pelaporan barang sederhana** sebagai 
 
 ---
 
+## ⚙️ Cara Compile & Jalankan
+
+# Compile semua file Java
+javac -cp "lib/*" -d bin src/*.java
+
+# Jalankan aplikasi
+java -cp "bin;lib/*" MainFrame
+
+---
+
 ## 🗂 Struktur Folder
 
 ```yaml
@@ -38,3 +48,4 @@ JavaJDBC/
 │   ├── mssql-jdbc-12.x.jar
 │   └── itextpdf-5.5.13.2.jar
 ├── bin/                    # Output hasil kompilasi .class
+
